@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "09za5yxszImpzgPEZV0+OkIg6nPgQ1amTHE0eV2COHuGKlEh8JcAmIoFbnDdrkKA49oYEPBF/t99fWEajvPHDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ARAM\\Desktop\\eKreative\\ApiDataBase\\ApiDataBase\\ApiDataBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARAM\\.nuget\\packages\\microsoft.data.sqlite\\8.0.0\\microsoft.data.sqlite.8.0.0.nupkg.sha512",
+    "C:\\Users\\ARAM\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0\\microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
+    "C:\\Users\\ARAM\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\ARAM\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\ARAM\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\ARAM\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\ARAM\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
